@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aakash Vishnuvarth</h1>
 <h3 align="center">A passionate high school computer science student obsessed with the intricacies of field.</h3>
-
-- 📫 How to reach me **aakashvish07@gmail.com**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/aakashvishnuvarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aakash vishnuvarth" height="30" width="40" /></a>
 <a href="https://instagram.com/aakashvishnuvarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashvishnuvarth" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aakashvish07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashvish07" height="30" width="40" /></a>
 </p>
-
+---
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">🧩 Programming Languages</h4>
 <a href="https://skillicons.dev">
@@ -35,8 +33,8 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=bash,figma,git,matlab,anaconda" alt="My Skills" />
 </a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashvishcoder&show_icons=true&locale=en&layout=compact" alt="aakashvishcoder" /></p>
+---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashvishcoder&show_icons=true&locale=en&layout=compact&theme=dark" alt="aakashvishcoder" /></p>
 
 ![snake gif](https://github.com/aakashvishcoder/aakashvishcoder/blob/output/github-snake-dark.svg)
 

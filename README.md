@@ -13,7 +13,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">🧩 Programming Languages</h4>
 <h4 align="left">🎨 Frontend Technologies & UI</h4>
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="My Skills" />
+</a>
 <h4 align="left">🛠️ Backend & Full-Stack Technologies</h4>
 <h4 align="left">📊 AI / Machine Learning / Data Science</h4>
 <h4 align="left">🎮 Game & Simulation</h4>

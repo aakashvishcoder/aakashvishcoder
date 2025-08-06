@@ -25,8 +25,9 @@
 </a>
 <h4 align="left">📊 AI / Machine Learning / Data Science</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,keras,scikit,pandas,seaborn,matplotlib" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,keras,pandas,seaborn,matplotlib" alt="My Skills" />
 </a>
+**Other tools:** scikit-learn, keras, seaborn, matplotli
 <h4 align="left">🎮 Game & Simulation</h4>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=unity" alt="My Skills" />

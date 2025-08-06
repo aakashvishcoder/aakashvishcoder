@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/aakash vishnuvarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aakash vishnuvarth" height="30" width="40" /></a>
+<a href="https://kaggle.com/aakashvishnuvarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aakash vishnuvarth" height="30" width="40" /></a>
 <a href="https://instagram.com/aakashvishnuvarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashvishnuvarth" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aakashvish07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashvish07" height="30" width="40" /></a>
 </p>
@@ -27,7 +27,7 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,keras,pandas,seaborn,matplotlib" alt="My Skills" />
 </a>
-**Other tools:** scikit-learn, keras, seaborn, matplotli
+<p><b>Other tools:</b> scikit-learn, keras, seaborn, matplotlib</p>
 <h4 align="left">🎮 Game & Simulation</h4>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=unity" alt="My Skills" />

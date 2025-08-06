@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">🧩 Programming Languages</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,kotlin" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,kotlin,solidity" alt="My Skills" />
 </a>
 <h4 align="left">🎨 Frontend Technologies & UI</h4>
 <a href="https://skillicons.dev">
@@ -27,10 +27,6 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,keras,pandas,seaborn,matplotlib" alt="My Skills" />
 </a>
-<img src="assets/scikitlearn.svg" alt="Scikit-learn" height="30" />
-<img src="assets/keras.svg" alt="Keras" height="30" />
-<img src="assets/jupyter.svg" alt="Keras" height="30" />
-<img src="assets/numpy.svg" alt="Keras" height="30" />
 <h4 align="left">🎮 Game & Simulation</h4>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=unity" alt="My Skills" />

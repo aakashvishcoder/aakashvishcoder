@@ -12,14 +12,29 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">🧩 Programming Languages</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,c++,java,py,js,kotlin,solidity" alt="My Skills" />
+</a>
 <h4 align="left">🎨 Frontend Technologies & UI</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap, react,tailwind" alt="My Skills" />
 </a>
 <h4 align="left">🛠️ Backend & Full-Stack Technologies</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi, firebase, flask, mongodb, mysql, nodejs" alt="My Skills" />
+</a>
 <h4 align="left">📊 AI / Machine Learning / Data Science</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn, tensorflow" alt="My Skills" />
+</a>
 <h4 align="left">🎮 Game & Simulation</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=unity" alt="My Skills" />
+</a>
 <h4 align="left">🔧 Tools & DevOps</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=bash,figma,git,matlab" alt="My Skills" />
+</a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashvishcoder&show_icons=true&locale=en&layout=compact" alt="aakashvishcoder" /></p>
 

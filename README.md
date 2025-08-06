@@ -27,8 +27,8 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,keras,pandas,seaborn,matplotlib" alt="My Skills" />
 </a>
-<img src="assets/icons/scikit-learn.svg" alt="Scikit-learn" height="30" />
-<img src="assets/icons/keras.svg" alt="Keras" height="30" />
+<img src="assets/scikit-learn.svg" alt="Scikit-learn" height="30" />
+<img src="assets/keras.svg" alt="Keras" height="30" />
 <p><b>Other tools:</b> scikit-learn, keras, seaborn, matplotlib</p>
 <h4 align="left">🎮 Game & Simulation</h4>
 <a href="https://skillicons.dev">

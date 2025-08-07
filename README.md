@@ -11,35 +11,42 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/aakashvishnuvarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aakash vishnuvarth" height="30" width="40" /></a>
-<a href="https://instagram.com/aakashvishnuvarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashvishnuvarth" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aakashvish07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashvish07" height="30" width="40" /></a>
+<address>
+  <a href="mailto:aakashvish07@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="My Skills" />
+  </a>
+</address>
+  <a href="https://www.instagram.com/aakashvishnuvarth/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="My Skills" />
+  </a>
 </p>
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">🧩 Programming Languages</h4>
-<a href="https://skillicons.dev">
+<a>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,kotlin,solidity,cs" alt="My Skills" />
 </a>
 <h4 align="left">🎨 Frontend Technologies & UI</h4>
-<a href="https://skillicons.dev">
+<a>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" alt="My Skills" />
 </a>
 <h4 align="left">🛠️ Backend & Full-Stack Technologies</h4>
-<a href="https://skillicons.dev">
+<a>
   <img src="https://skillicons.dev/icons?i=fastapi,firebase,flask,mongodb,mysql,nodejs" alt="My Skills" />
 </a>
 <h4 align="left">📊 AI / Machine Learning / Data Science</h4>
-<a href="https://skillicons.dev">
+<a>
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,keras,pandas,seaborn,matplotlib" alt="My Skills" />
 </a>
 <h4 align="left">🎮 Game & Simulation</h4>
-<a href="https://skillicons.dev">
+<a>
   <img src="https://skillicons.dev/icons?i=unity" alt="My Skills" />
 </a>
 <h4 align="left">🔧 Tools & DevOps</h4>
-<a href="https://skillicons.dev">
+<a>
   <img src="https://skillicons.dev/icons?i=bash,figma,git,matlab,anaconda" alt="My Skills" />
 </a>
 

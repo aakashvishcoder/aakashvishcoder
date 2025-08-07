@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">🧩 Programming Languages</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,kotlin,solidity" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,kotlin,solidity,c#" alt="My Skills" />
 </a>
 <h4 align="left">🎨 Frontend Technologies & UI</h4>
 <a href="https://skillicons.dev">

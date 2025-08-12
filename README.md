@@ -52,7 +52,7 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashvishcoder&show_icons=true&locale=en&layout=compact&theme=dark" alt="aakashvishcoder" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashvishcoder&show_icons=true&locale=en&layout=compact&theme=dark&hide=Jupyter%20Notebook" alt="aakashvishcoder" /></p>
 
 ![snake gif](https://github.com/aakashvishcoder/aakashvishcoder/blob/output/github-snake-dark.svg)
 

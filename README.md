@@ -27,7 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">🧩 Programming Languages</h4>
 <a>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,kotlin,solidity,cs" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,kotlin,solidity,cs,ts" alt="My Skills" />
 </a>
 <h4 align="left">🎨 Frontend Technologies & UI</h4>
 <a>
@@ -35,7 +35,7 @@
 </a>
 <h4 align="left">🛠️ Backend & Full-Stack Technologies</h4>
 <a>
-  <img src="https://skillicons.dev/icons?i=fastapi,firebase,flask,mongodb,mysql,nodejs" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=fastapi,firebase,flask,mongodb,mysql,nodejs, express,mongoose" alt="My Skills" />
 </a>
 <h4 align="left">📊 AI / Machine Learning / Data Science</h4>
 <a>

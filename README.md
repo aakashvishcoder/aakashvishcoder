@@ -35,7 +35,7 @@
 </a>
 <h4 align="left">🛠️ Backend & Full-Stack Technologies</h4>
 <a>
-  <img src="https://skillicons.dev/icons?i=fastapi,firebase,flask,mongodb,mysql,nodejs, express,mongoose" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=fastapi,firebase,flask,mongodb,mysql,nodejs, express" alt="My Skills" />
 </a>
 <h4 align="left">📊 AI / Machine Learning / Data Science</h4>
 <a>

@@ -47,7 +47,7 @@
 </a>
 <h4 align="left">🔧 Tools & DevOps</h4>
 <a>
-  <img src="https://skillicons.dev/icons?i=bash,figma,git,matlab,anaconda" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=bash,figma,git,matlab,anaconda,arduino" alt="My Skills" />
 </a>
 
 ---
